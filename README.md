@@ -1,5 +1,5 @@
 # Recommender System
-This repo will be dedicated to creating a recommender system for the smaller [Movielens dataset](https://grouplens.org/datasets/movielens/) they recommend for education and development. It can be donwloaded from [here](http://files.grouplens.org/datasets/movielens/ml-latest-small.zip).
+This repo will be dedicated to creating a recommender system for the smaller [Movielens dataset](https://grouplens.org/datasets/movielens/) they recommend for education and development. All files are added in the repo. 
 
 ## Good resources
 Here are two good articles to get started. (If you find any other that are usable, please post them in the list too)
